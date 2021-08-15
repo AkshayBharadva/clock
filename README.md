@@ -1,4 +1,4 @@
-#Analog Clock
+# Analog Clock
 This is the simple "Analog Clock" to get idea og the conversion function of time to degree to rotate Needle and the use of Quote api to get Insipration! Using Html, Css, Js...
 
 const scale = (num, in_min, in_max, out_min, out_max) => {
@@ -7,4 +7,4 @@ const scale = (num, in_min, in_max, out_min, out_max) => {
 	);
 };
 
-Check out : akshaybharadva.github.io/clock/
+Check out : https://akshaybharadva.github.io/clock/
